@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66d4b201-5390-45d7-8fb7-5218339d9c01" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/hello_world/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -130,7 +131,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664046504998</updated>
-      <workItem from="1664046506343" duration="4396000" />
+      <workItem from="1664046506343" duration="4904000" />
     </task>
     <servers />
   </component>
